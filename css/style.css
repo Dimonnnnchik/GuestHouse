@@ -80,7 +80,7 @@ header {
 
 .house {
   height: calc(100vh - 65px);
-  background: url(imgs/house.jpg) no-repeat center center fixed;
+  background: url(../imgs/house.jpg) no-repeat center center fixed;
   background-size: cover;
 }
 .house__wrapper {
@@ -294,7 +294,7 @@ header {
 }
 
 .kitchen-img {
-  background: url(imgs/kitchen.jpg) no-repeat center center fixed;
+  background: url(../imgs/kitchen.jpg) no-repeat center center fixed;
   background-size: cover;
 }
 .kitchen-img img {
@@ -389,7 +389,7 @@ header {
   content: "";
   width: 60px;
   height: 60px;
-  background-image: url(imgs/Rectangle.svg);
+  background-image: url(../imgs/Rectangle.svg);
   position: absolute;
   bottom: 50px;
   right: 136px;
@@ -398,7 +398,7 @@ header {
   content: "";
   width: 60px;
   height: 60px;
-  background-image: url(imgs/Rectangle.svg);
+  background-image: url(../imgs/Rectangle.svg);
   position: absolute;
   bottom: 50px;
   right: 206px;
@@ -454,7 +454,7 @@ header {
 }
 
 .table__img {
-  background: url(imgs/table.jpg) no-repeat center top fixed;
+  background: url(../imgs/table.jpg) no-repeat center top fixed;
   background-size: cover;
 }
 .table__img img {
